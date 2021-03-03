@@ -1,3 +1,763 @@
-<html>
-  <h1>I LOVE YOU GODWINA</h1>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="The official dashboard for Funders">
+  <meta name="author" content="McProgramming">
+
+  <title>Funders : Official Fund Dashboard</title>
+
+  <!-- Custom fonts for this template-->
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+  <!-- Custom styles for this template-->
+  <link href="css/sb-admin-2.min.css" rel="stylesheet">
+
+  <link rel="icon" href="img/favicon.png" type="image/x-icon"/>
+  <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon"/>
+
+</head>
+
+<body>
+<h1><center>"The Funders !"</h1>
+<body id="page-top">
+
+  <!-- Page Wrapper -->
+  <div id="wrapper">
+
+    <!-- Sidebar -->
+    <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
+
+      <!-- Sidebar - Brand -->
+      <a class="sidebar-brand d-flex align-items-center justify-content-center" href="file:///C:/Data/macson/Macson/Personal/Funder/2021/mypage.html">
+        <div class="sidebar-brand-icon rotate-n-15">
+          <img  src="C:\Data\macson\Macson\Personal\Funder\images\temp-money.png" alt="" width="40" height="40" style="vertical-align:middle">
+          <i class="fas fa-virus"></i>
+        </div>
+        <div class="sidebar-brand-text mx-3">Fund Dashboard</div>
+      </a>
+
+      <!-- Divider -->
+      <hr class="sidebar-divider my-0">
+
+      <!-- Nav Item - Dashboard -->
+      <li class="nav-item active">
+        <a class="nav-link" href="file:///C:/Data/macson/Macson/Personal/Funder/2021/mypage.html">
+          <i class="fas fa-fw fa-tachometer-alt"></i>
+          <span>Dashboard</span></a>
+      </li>
+
+      <!-- Divider -->
+      <hr class="sidebar-divider">
+
+
+      <!-- Heading -->
+      <div class="sidebar-heading">
+        Data
+      </div>
+
+<button onClick="window.location.reload();">Refresh Page</button>
+<div class="navbar">
+  <a href="/images/*">Photos</a>
+    <div class="dropdown">
+    <button class="dropbtn">Contribution Years 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrK-4hAC5sXt4CC-DoEARkWNXHL4jkkmnOJQXyDcJYXyqNtxjDXEbmhiNU0KtNPw/pubhtml?widget=true&amp;headers=false">2011</a>
+      <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTHhYwSdte45958RCUYpfzrizLNgKhwCos2T_QA4OHCN85TBV_vbDdDU9WH7AtQSw/pubhtml?widget=true&amp;headers=false">2012</a>
+      <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTA5WqRBl6ATIFEa6WbXpfNMn1AX8m2PBf9z6CQ5E97hKq9J-B0tgsL8MDdbQxgQi1r5G-u9iVJcogQ/pubhtml?widget=true&amp;headers=false">2013</a>
+	  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSpWI9sOwe3zrX7ZCzapP8q08mDRqc-q1e3AoncxrKRy_vCwZOxJ-qEV04Hl6Iepw/pubhtml?widget=true&amp;headers=false">2014</a>
+	  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpTxiz_-IPfMtsDsAiVKD8NKbVuXQVVIizoGk-SQmVxXx-rvW1uooWnO3uQGYxUA/pubhtml?widget=true&amp;headers=false">2015</a>
+	  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQOAEGfy4Ms0HAWKYrwdRCypUTpJV2eGrMcE3-9idB4GPVr13y3c3cHfo9cjdm0EQ/pubhtml?widget=true&amp;headers=false">2016</a>
+	  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQtcVlUR1-DdPZZJi8_CfwYfVZTdg-9Bw12DmWtzzf1thkXMmt7_V0-J6uSKtUvbQ/pubhtml?widget=true&amp;headers=false">2017</a>
+	  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTvhpom_QuOhVQQqHNrVeXNu-ksST-e80Uf5-CHdoHt9Ezi-N6D_1J4aA3D4Gk5cw/pubhtml?widget=true&amp;headers=false">2018</a>
+	  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQkVSLyX27ydaGclXHaIJ9juJ--VGlwvDLyqQsAy0ZCnAWrzKClo54kmPPHmaui5Q/pubhtml?widget=true&amp;headers=false">2019</a>
+	  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTgnoxodbT_qWjLvtAc5PhArNqVLLuII24t1lAIhbwDD-VSlYULVYlhSyilPcmCag/pubhtml?widget=true&amp;headers=false">2020</a>
+	  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSK6h3wBBP2yWvrS-u-uhK5ZNpst_xkw5sHH706oAjUSCvDI756t75DY1g3u4BvXw/pubhtml?widget=true&amp;headers=false">2021</a>
+    </div>
+  </div>
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vShHuVyWzls40LtR_gAPD16_5FXMI5MS3k_qIECV1jNbQ9RBi5EclDSFUmjzb2W8A/pubhtml?widget=true&amp;headers=false">Loans to members</a>  
+</div>
+<h1>Fund Account Number: <p style="color:blue;">BCCB 16914<p></h1>
+<h2>Contribution received from all for the year 2011 till 2019</h2>
+<marquee><h2><p style="color:red;">Thank you for your contribution!</p></h2></marquee>
+
+<!--<button type="button" onclick="alert('All have paid for year 2011')">2011</button>
+<!<iframe width="1500" height="1000" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrK-4hAC5sXt4CC-DoEARkWNXHL4jkkmnOJQXyDcJYXyqNtxjDXEbmhiNU0KtNPw/pubhtml?widget=true&amp;headers=false"></iframe>
+-->
+<h2>Investment Details:</h2>
+<h3><p style="color:green;">#Rs. 2,00,000/- has been invested in Fixed deposit @8%PA</p></h3>
+
+
+	  
+	  
+	  
+      <!-- Nav Item - Pages Collapse Menu -->
+    <li class="nav-item">
+        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapsePages" aria-expanded="true" aria-controls="collapsePages">
+          <i class="fas fa-fw fa-folder"></i>
+          <span>Resources</span>
+        </a>
+        <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
+          <div class="bg-white py-2 collapse-inner rounded">
+            <h6 class="collapse-header">VVCMC</h6>
+            <a class="collapse-item" href="https://vvcmc.in/vvmc/corona/local_host/index.html">VVCMC Dashboard</a>
+            <a class="collapse-item" href="https://vvcmc.in/vvmc/corona/local_host/containmentzone.html">VVCMC Containment Zones</a>
+
+            <div class="collapse-divider"></div>
+            <h6 class="collapse-header">Palghar District</h6>
+            <a class="collapse-item" href="https://datastudio.google.com/embed/u/0/reporting/3f20951b-561b-4a87-a919-8134ce69bb43/page/ecYZB">Palghar Dashboard</a>
+
+          </div>
+        </div>
+      </li>
+
+      <!-- Nav Item - Tables -->
+      <li class="nav-item">
+        <a class="nav-link" href="CasesTable.html">
+          <i class="fas fa-fw fa-table"></i>
+          <span>Cases Table</span></a>
+      </li>
+
+      <!-- Nav Item - Charts -->
+      <li class="nav-item">
+        <a class="nav-link" href="charts.html">
+          <i class="fas fa-fw fa-chart-area"></i>
+          <span>Charts</span></a>
+      </li>
+
+      <!-- Nav Item - Helpline -->
+      <li class="nav-item">
+        <a class="nav-link" href="helplines.html">
+          <i class="fas fa-bell fa-fw"></i>
+          <span>Helplines</span></a>
+      </li>
+
+
+
+
+
+      <!-- Divider -->
+      <hr class="sidebar-divider d-none d-md-block">
+
+      <!-- Nav Item - Social -->
+      <li class="nav-item">
+        <a class="nav-link" href="https://twitter.com/WeAreVasai">
+          <i class="fab fa-twitter fa-fw"></i>
+          <span>Twitter</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://www.facebook.com/wearevasai/">
+          <i class="fab fa-facebook-f fa-fw"></i>
+          <span>Facebook</span></a>
+      </li>
+
+      <!-- Sidebar Toggler (Sidebar) -->
+      <div class="text-center d-none d-md-inline">
+        <button class="rounded-circle border-0" id="sidebarToggle"></button>
+      </div>
+
+    </ul>
+    <!-- End of Sidebar -->
+
+    <!-- Content Wrapper -->
+    <div id="content-wrapper" class="d-flex flex-column">
+
+      <!-- Main Content -->
+      <div id="content">
+
+        <!-- Topbar -->
+        <nav class="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow">
+
+          <!-- Sidebar Toggle (Topbar) -->
+          <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">
+            <i class="fa fa-bars"></i>
+          </button>
+          <div class="text-l font-weight-bold text-primary text-uppercase mb-1">Vasai-Virar District COVID-19 Dashboard (Unofficial)</div>
+
+
+          <!-- Topbar Navbar -->
+          <ul class="navbar-nav ml-auto">
+
+
+
+            <div class="topbar-divider d-none d-sm-block"></div>
+
+            <!-- Nav Item - Date -->
+            <li class="nav-item dropdown no-arrow">
+              <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <span class="mr-2 d-none d-lg-inline text-gray-600 small">March 02, 2021</span>
+              </a>
+
+
+        </nav>
+        <!-- End of Topbar -->
+
+        <!-- Begin Page Content -->
+        <div class="container-fluid">
+
+          <!-- Page Heading -->
+          <div class="d-sm-flex align-items-center justify-content-between mb-4">
+            <h1 class="h3 mb-0 text-gray-800">Dashboard</h1>
+
+          </div>
+
+          <!-- Content Row -->
+          <div class="row">
+
+
+            <div class="col-xl-3 col-md-6 mb-4">
+              <div class="card border-left-primary shadow h-100 py-2">
+                <div class="card-body">
+                  <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                      <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">Active Cases</div>
+                      <div class="h5 mb-0 font-weight-bold text-gray-800">374</div>
+                    </div>
+                    <div class="col-auto">
+                      <i class="fas fa-star fa-2x text-gray-300"></i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+
+            <div class="col-xl-3 col-md-6 mb-4">
+              <div class="card border-left-success shadow h-100 py-2">
+                <div class="card-body">
+                  <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                      <div class="text-xs font-weight-bold text-success text-uppercase mb-1">Deceased</div>
+                      <div class="h5 mb-0 font-weight-bold text-gray-800">948</div>
+                    </div>
+                    <div class="col-auto">
+                      <i class="fas fa-exclamation-triangle fa-2x text-gray-300"></i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+
+            <div class="col-xl-3 col-md-6 mb-4">
+              <div class="card border-left-info shadow h-100 py-2">
+                <div class="card-body">
+                  <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                      <div class="text-xs font-weight-bold text-info text-uppercase mb-1">Recovered</div>
+                      <div class="row no-gutters align-items-center">
+                        <div class="col-auto">
+                          <div class="h5 mb-0 mr-3 font-weight-bold text-gray-800">30,459</div>
+                        </div>
+
+                      </div>
+                    </div>
+                    <div class="col-auto">
+                      <i class="fas fa-thumbs-up fa-2x text-gray-300"></i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Pending Requests Card Example -->
+            <div class="col-xl-3 col-md-6 mb-4">
+              <div class="card border-left-warning shadow h-100 py-2">
+                <div class="card-body">
+                  <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                      <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">Total Cases</div>
+                      <div class="h5 mb-0 font-weight-bold text-gray-800">31,781</div>
+                    </div>
+                    <div class="col-auto">
+                      <i class="fas fa-file fa-2x text-gray-300"></i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Content Row -->
+
+          <div class="row">
+
+            <!-- Cases Trend Chart -->
+            <div class="col-xl-8 col-lg-7">
+              <div class="card shadow mb-4">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-primary">Cases Trend</h6>
+
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                  <div class="chart-area">
+                    <canvas id="myAreaChart"></canvas>
+                  </div>
+
+                </div>
+              </div>
+
+            </div>
+
+            <!-- Pie Chart -->
+            <div class="col-xl-4 col-lg-5">
+              <div class="card shadow mb-4">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-primary">Gender-wise Split</h6>
+
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                  <div class="chart-pie pt-4 pb-2">
+                    <canvas id="myPieChart"></canvas>
+                  </div>
+                  <div class="mt-4 text-center small">
+                    <span class="mr-2">
+                      <i class="fas fa-circle text-primary"></i> Unknown
+                    </span>
+                    <span class="mr-2">
+                      <i class="fas fa-circle text-success"></i> Males
+                    </span>
+                    <span class="mr-2">
+                      <i class="fas fa-circle text-info"></i> Females
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+
+            <!-- Recovery Trend Chart -->
+            <div class="col-lg-6 mb-4">
+              <div class="card shadow mb-4">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-primary">Recovery Trend</h6>
+
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                  <div class="chart-area">
+                    <canvas id="recoveryChart"></canvas>
+                  </div>
+
+                </div>
+              </div>
+
+            </div>
+
+
+              <!-- Mortality Trend Chart -->
+              <div class="col-lg-6 mb-4">
+                <div class="card shadow mb-4">
+                  <!-- Card Header - Dropdown -->
+                  <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                    <h6 class="m-0 font-weight-bold text-primary">Mortality Trend</h6>
+
+                  </div>
+                  <!-- Card Body -->
+                  <div class="card-body">
+                    <div class="chart-area">
+                      <canvas id="mortalityChart"></canvas>
+                    </div>
+
+                  </div>
+                </div>
+
+              </div>
+            </div>
+          <!-- Bar Chart -->
+        <!--  <div class="card shadow mb-4">
+            <div class="card-header py-3">
+              <h6 class="m-0 font-weight-bold text-primary">Bar Chart</h6>
+            </div>
+            <div class="card-body">
+              <div class="chart-bar">
+                <canvas id="myBarChart"></canvas>
+              </div>
+              <hr>
+              Styling for the bar chart can be found in the <code>/js/demo/chart-bar-demo.js</code> file.
+            </div>
+          </div>-->
+
+          <!-- Content Row -->
+          <div class="row">
+
+            <!-- Content Column -->
+            <div class="col-lg-6 mb-4">
+
+              <!-- cases by area -->
+              <div class="card shadow mb-4">
+                <div class="card-header py-3">
+                  <h6 class="m-0 font-weight-bold text-primary">Cases by Area</h6>
+                </div>
+                <div class="card-body">
+                  <div class="table-responsive">
+                  <table class="table table-bordered table-responsive table-hover" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th>Area</th>
+                            <th>Total Cases</th>
+                            <th>Total Deaths</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                          <td>Naigaon</td>
+                          <td>1,039</td>
+                          <td>22</td>
+                      </tr>
+                        <tr>
+                            <td>Nallasopara</td>
+                            <td>8,648</td>
+                            <td>243</td>
+                        </tr>
+                        <tr>
+                            <td>Vasai</td>
+                            <td>9,794</td>
+                            <td>215</td>
+                        </tr>
+                        <tr>
+                            <td>Virar</td>
+                            <td>9,318</td>
+                            <td>212</td>
+                        </tr>
+                        <tr>
+                            <td>Vasai-Virar</td>
+                            <td>481</td>
+                            <td>2</td>
+                        </tr>
+                        <tr>
+                            <td>Unknown</td>
+                            <td>258</td>
+                            <td>-</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                  <hr>
+                  *205 Deaths are unaccounted for since the details were not shared by VVCMC. There is a reconcilation in the number of deaths, hence the number of unknown deaths.<br />
+                  *4 Cases are unaccounted for since the details were not shared by VVCMC. There is a reconcilation in the number of cases, hence the number of unknown cases.
+                </div>
+              </div>
+              </div>
+
+
+              <!-- Offical Numbers -->
+              <div class="card shadow mb-4">
+                <div class="card-header py-3">
+                  <h6 class="m-0 font-weight-bold text-primary">Official Numbers</h6>
+                </div>
+                <div class="card-body">
+                  <div class="table-responsive">
+                    <span class="subheading">VVCMC Cases Details*</span>
+                    <table class="table table-bordered table-sm table-responsive table-hover" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                      <tr>
+                        <th>Under Observation</th>
+                        <th>Completed Quarantine</th>
+                        <th>COVID-19 Tests</th>
+                        <th>Positive Cases</th>
+                        <th>Awaiting Reports</th>
+                        <th>Deaths</th>
+                        <th>Recovered</th>
+                        <th>Recovering</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                      <td>3,06,265</td>
+                      <td>2,50,650</td>
+                      <td>2,08,408</td>
+                      <td>30,414</td>
+                      <td>226</td>
+                      <td>899</td>
+                      <td>289,141</td>
+                      <td>374</td>
+                    </tr>
+                    </tbody>
+                    </table>
+
+                    <span class="subheading">Vasai-Virar Rural Cases Details*</span>
+                      <table class="table table-bordered table-responsive table-hover" id="dataTable" width="100%" cellspacing="0">
+                      <thead>
+                        <tr>
+                          <th>Total Cases</th>
+                          <th>Deceased</th>
+                          <th>Recovered</th>
+                          <th>Active Cases</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                     <tr>
+                       <td>1,367</td>
+                       <td>49</td>
+                       <td>1,318</td>
+                       <td>0</td>
+                     </tr>
+                    </tbody>
+                    </table>
+                </div>
+              </div>
+              </div>
+
+              <!-- WeAreVasai -->
+              <div class="card shadow mb-4">
+                <div class="card-header py-3">
+                  <h6 class="m-0 font-weight-bold text-primary">WeAreVasai</h6>
+                </div>
+                <div class="card-body">
+                  <p>This is an unofficial dashboard for the COVID-19 cases in Vasai-Virar area. </p>
+                  <p class="mb-0">We are a team of individuals from Vasai-Virar who thought that we need a dashboard for tracking the spread of Novel Coronavirus in our area.</p>
+                </div>
+              </div>
+
+            </div>
+
+            <div class="col-lg-6 mb-4">
+              <!-- Month Wise data -->
+              <div class="card shadow mb-4">
+                <div class="card-header py-3">
+                  <h6 class="m0 font-weight-bold text-primary">Month Wise Data</h6>
+                </div>
+                <div class="card-body">
+                  <div class="table-responsive">
+                    <table class="table table-bordered table-responsive table-hover" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                      <tr><th>Month</th><th>Cases</th><th>Deaths</th><th>Recovered</th></tr>
+                    </thead>
+                    <tbody>
+                     <tr><td>March</td><td>7</td><td>0</td><td>0</td></tr>
+                     <tr><td>April</td><td>127</td><td>14</td><td>45</td></tr>
+                     <tr><td>May</td><td>633</td><td>17</td><td>211</td></tr>
+                     <tr><td>June</td><td>3,392</td><td>91</td><td>1,631</td></tr>
+                     <tr><td>July</td><td>6,956</td><td>129</td><td>6,288</td></tr>
+                     <tr><td>August</td><td>4,762</td><td>141</td><td>6,894</td></tr>
+                     <tr><td>September</td><td>6,142</td><td>82</td><td>5,856</td></tr>
+                     <tr><td>October</td><td>4,132</td><td>152</td><td>5,060</td></tr>
+                     <tr><td>November</td><td>1,507</td><td>48</td><td>1,875</td></tr>
+                     <tr><td>December</td><td>1,086</td><td>24</td><td>1,321</td></tr>
+                     <tr><td>January</td><td>582</td><td>9</td><td>641</td></tr>
+                     <tr><td>February</td><td>570</td><td>4</td><td>426</td></tr>
+                     <tr><td>March</td><td>58</td><td>0</td><td>53</td></tr>
+                    </tbody>
+                  </table>
+
+
+                </div>
+              </div>
+              </div>
+
+
+              <!-- Percentages -->
+              <div class="card shadow mb-4">
+                <div class="card-header py-3">
+                  <h6 class="m-0 font-weight-bold text-primary">Percentages</h6>
+                </div>
+                <div class="card-body">
+                  <div class="table-responsive">
+                    <table class="table table-bordered table-responsive table-hover" id="dataTable" width="100%" cellspacing="0">
+              <thead>
+                  <tr>
+                    <th>Percentages</th><th>Total</th><th>Rural</th><th>VVCMC</th></tr></thead><tbody>
+                   <tr><td>Active Percentage</td>
+                     <td>1.18%</td>
+                     <td>0.00%</td>
+                     <td>1.23%</td>
+                   </tr>
+                   <tr><td>Recovery Percentage</td>
+                     <td>95.87%</td>
+                     <td>96.42%</td>
+                     <td>95.85%</td>
+                   </tr>
+                   <tr><td>Mortality Percentage</td>
+                     <td>2.98%</td>
+                     <td>3.58%</td>
+                     <td>2.96%</td>
+                    </tr>
+                  </tbody>
+                </table>
+
+
+                </div>
+              </div>
+              </div>
+
+
+
+
+              <!-- Disclaimer -->
+              <div class="card shadow mb-4">
+                <div class="card-header py-3">
+                  <h6 class="m-0 font-weight-bold text-primary">Disclaimer</h6>
+                </div>
+                <div class="card-body">
+                  <div class="text-center">
+                    <!--<img class="img-fluid px-3 px-sm-4 mt-3 mb-4" style="width: 25rem;" src="img/undraw_posting_photo.svg" alt="">-->
+                  </div>
+                  <p>#. We are NOT the official dashboard. The official dashboard from <a title="Official VVCMC Dashboard" href="https://vvcmc.in/vvmc/corona/local_host/index.html" target="_blank">VVCMC is here</a>. </p>
+                  <p>#. This is a crowd sourced tracker and will be updated once we have a confirmation on the case from an official datasource. </p>
+                  <p>#. Official datasource here means the bulletins from VVCMC and the Collectors Office and Official Social Media handles.</p>
+                  <p>#. Please do not believe in rumours and do not contribute to rumours. Follow the guidelines issued by VVCMC.</p>
+
+                </div>
+              </div>
+
+
+
+            </div>
+          </div>
+
+          <div class="card shadow mb-4">
+            <div class="card-header py-3">
+              <h6 class="m-0 font-weight-bold text-primary">CCC- Covid Care Centre Facilities in VVMC</h6>
+            </div>
+            <div class="card-body">
+              <div class="table-responsive">
+                <table class="table table-bordered table-responsive table-hover" id="dataTable" width="100%" cellspacing="0">
+          <thead>
+              <tr>
+       <th>Name of Isolation Centre</th><th>Total beds available</th><th>Isolation Beds -without O2 support</th><th>Occupied Isolation beds- without O2 support</th><th>% Occupancy of Isolation Beds -without O2 support</th></tr></thead><tbody>
+       <tr><td>Mhada Building No. 10</td><td>372</td><td>372</td><td>25</td><td>6.72%</td></tr>
+       <tr><td>Viva College, Virar West</td><td>1200</td><td>600</td><td>3</td><td>0.50%</td></tr>
+       <tr><td>Mhada Building No. 14</td><td>190</td><td>190</td><td>0</td><td>0%</td></tr>
+      </tbody></table>
+          <hr>
+          *Data as of 8th September via <a title="Palghar District Dashboard" target="_blank" href="https://datastudio.google.com/embed/u/0/reporting/3f20951b-561b-4a87-a919-8134ce69bb43/page/70ZUB">Palghar District Dashboard</a>
+
+            </div>
+          </div>
+          </div>
+
+          <div class="card shadow mb-4">
+            <div class="card-header py-3">
+              <h6 class="m-0 font-weight-bold text-primary"> DCHC- Dedicated Covid Care Hospital Centres Facilities in VVMC​</h6>
+            </div>
+            <div class="card-body">
+              <div class="table-responsive">
+                <table class="table table-bordered table-responsive table-hover" id="dataTable" width="100%" cellspacing="0">
+          <thead>
+              <tr>
+  <th>Name of Isolation Centre</th><th>Total beds available</th><th>Isolation Beds -without O2 support</th><th>Occupied Isolation beds- without O2 support</th><th>% Occupancy of Isolation Beds -without O2 support</th><th>Isolation Beds -with O2 support</th><th>Occupied Isolation beds- with O2 support</th><th>% Occupancy of Isolation Beds -with O2 support</th><th>No of Ventilators</th></tr></thead><tbody>
+   <tr><td>GG College Annexure Building</td><td>750</td><td>550</td><td>206</td><td>37.45%</td><td>200</td><td>6</td><td>3%</td><td>0</td></tr>
+   <tr><td>Varun Industry Covid Hospital</td><td>1200</td><td>1050</td><td>81</td><td>7.71%</td><td>150</td><td>17</td><td>11.33%</td><td>0</td></tr>
+   <tr><td>Bolinj Hosptial</td><td>20</td><td>0</td><td>0</td><td>-</td><td>20</td><td>0</td><td>0%</td><td>0</td></tr>
+  </tbody></table>
+  <hr>
+  *Data as of 8th September via <a title="Palghar District Dashboard" target="_blank" href="https://datastudio.google.com/embed/u/0/reporting/3f20951b-561b-4a87-a919-8134ce69bb43/page/m2ZUB">Palghar District Dashboard</a>
+
+            </div>
+          </div>
+          </div>
+
+          <div class="card shadow mb-4">
+            <div class="card-header py-3">
+              <h6 class="m-0 font-weight-bold text-primary">DCH- Dedicated Covid Care Hospitals in VVMC</h6>
+            </div>
+            <div class="card-body">
+              <div class="table-responsive">
+                <table class="table table-bordered table-responsive table-hover" id="dataTable" width="100%" cellspacing="0">
+          <thead>
+              <tr>
+              <th>Name of Isolation Centre</th><th>Total beds available</th><th>Isolation Beds -without O2 support</th><th>Occupied Isolation Beds- without O2 support</th><th>% Occupancy of Isolation Beds- without O2 support</th><th>Isolation Beds- with O2 support</th><th>Occupied Isolation Beds- with O2 support</th><th>% Occupancy of Isolation Beds- with O2 support</th><th>ICU Beds</th><th>Occupied ICU Beds</th><th>% Occupancy of ICU Beds</th><th>No of Ventilators</th><th>Occupied Ventilators</th><th>% Occupancy of Ventilators</th></tr></thead><tbody>
+               <tr><td>Agarwal Hospital</td><td>75</td><td>40</td><td>27</td><td>67.50%</td><td>40</td><td>6</td><td>15%</td><td>20</td><td>0</td><td>0%</td><td>10</td><td>0</td><td>0%</td></tr>
+               <tr><td>Vinayaka Hospital</td><td>75</td><td>0</td><td>2</td><td>No data</td><td>65</td><td>34</td><td>52.31%</td><td>10</td><td>7</td><td>70%</td><td>4</td><td>1</td><td>25%</td></tr>
+               <tr><td>Vijay Vallabh Hospital </td><td>50</td><td>22</td><td>17</td><td>77.27%</td><td>40</td><td>21</td><td>52.50%</td><td>19</td><td>3</td><td>15.79%</td><td>6</td><td>1</td><td>16.67%</td></tr>
+               <tr><td>Galaxy Hopsital</td><td>25</td><td>12</td><td>8</td><td>66.67%</td><td>8</td><td>0</td><td>0%</td><td>5</td><td>7</td><td>140%</td><td>1</td><td>0</td><td>0%</td></tr>
+               <tr><td>Riddhivinayak Hospital,Nalasopara</td><td>180</td><td>100</td><td>4</td><td>4%</td><td>40</td><td>1</td><td>2.50%</td><td>40</td><td>30</td><td>75%</td><td>20</td><td>0</td><td>0%</td></tr>
+               <tr><td>Star Hospital</td><td>45</td><td>25</td><td>8</td><td>32%</td><td>18</td><td>10</td><td>55.56%</td><td>20</td><td>13</td><td>65%</td><td>3</td><td>0</td><td>0%</td></tr>
+               <tr><td>Golden Park Hospital</td><td>54</td><td>0</td><td>30</td><td>No data</td><td>44</td><td>2</td><td>4.55%</td><td>10</td><td>3</td><td>30%</td><td>6</td><td>3</td><td>50%</td></tr>
+               <tr><td>Kaul Isolation</td><td>65</td><td>0</td><td>6</td><td>No data</td><td>45</td><td>17</td><td>37.78%</td><td>20</td><td>17</td><td>85%</td><td>10</td><td>2</td><td>20%</td></tr>
+               <tr><td>Janseva Hospital</td><td>60</td><td>48</td><td>0</td><td>0%</td><td>12</td><td>22</td><td>183.33%</td><td>12</td><td>8</td><td>66.67%</td><td>2</td><td>1</td><td>50%</td></tr>
+               <tr><td>Platinum Hospital</td><td>60</td><td>0</td><td>0</td><td>No data</td><td>60</td><td>1</td><td>No data</td><td>10</td><td>7</td><td>No data</td><td>4</td><td>0</td><td>No data</td></tr>
+               <tr><td>Cardinal Gracious Hospital</td><td>147</td><td>55</td><td>27</td><td>No data</td><td>55</td><td>25</td><td>No data</td><td>10</td><td>13</td><td>No data</td><td>3</td><td>5</td><td>No data</td></tr>
+               <tr><td>Chandansar Municipal Hospital</td><td>150</td><td>50</td><td>0</td><td>No data</td><td>100</td><td>31</td><td>No data</td><td>100</td><td>31</td><td>No data</td><td>20</td><td>0</td><td>No data</td></tr>
+              </tbody></table>
+              <hr>
+              *Data as of 8th September via <a title="Palghar District Dashboard" target="_blank" href="https://datastudio.google.com/embed/u/0/reporting/3f20951b-561b-4a87-a919-8134ce69bb43/page/47ZUB">Palghar District Dashboard</a>
+
+
+            </div>
+          </div>
+          </div>
+
+        </div>
+        <!-- /.container-fluid -->
+
+      </div>
+      <!-- End of Main Content -->
+
+      <!-- Footer -->
+      <footer class="sticky-footer bg-white">
+        <div class="container my-auto">
+          <div class="copyright text-center my-auto">
+            <span>Copyleft &copy; <script>document.write(new Date().getFullYear());</script> <i class="icon-heart color-danger" aria-hidden="true"></i>
+              Proudly made by the people of Vasai-Virar  | Last Update: <span id="demo"></span>
+              <br /><br /><span id="loadtime"></span>
+              </span>
+            </div>
+          </div>
+        </footer>
+
+<!--Get date JS -->
+  <script>
+    document.getElementById("demo").innerHTML = document.lastModified;
+    </script>
+
+  <!-- Bootstrap core JavaScript-->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Core plugin JavaScript-->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom scripts for all pages-->
+  <script src="js/sb-admin-2.min.js"></script>
+
+  <!-- Page level plugins -->
+  <script src="vendor/chart.js/Chart.min.js"></script>
+
+  <script type="text/javascript">
+       var before_loadtime = new Date().getTime();
+       window.onload = Pageloadtime;
+       function Pageloadtime() {
+           var aftr_loadtime = new Date().getTime();
+           // Time calculating in seconds
+           pgloadtime = (aftr_loadtime - before_loadtime) / 1000
+
+           document.getElementById("loadtime").innerHTML = "Page loaded in <font color='red'><b>" + pgloadtime + "</b></font> Seconds";
+       }
+  </script>
+
+  <!-- Page level custom scripts -->
+  <script src="js/demo/chart-area-demo.js"></script>
+  <script src="js/demo/chart-pie-demo.js"></script>
+  <script src="js/demo/mortalitychart.js"></script>
+    <script src="js/demo/recoverychart.js"></script>
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-163098375-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-163098375-1');
+  </script>
+
+</body>
+
 </html>
